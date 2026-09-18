@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Priyanshu Yadav 👋
 
-<!--
-**PriyanshuYadav10/PriyanshuYadav10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Flutter developer based in Jaipur, India, focused on building clean, production-ready mobile apps. I also work with PHP and TypeScript on the backend side.
 
-Here are some ideas to get you started:
+### What I work on
+- 📱 Flutter/Dart mobile apps — GPS tracking, trading simulators, note-taking tools
+- 🛠️ PHP backends and admin panels
+- 🌐 TypeScript web apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured projects
+- **rider_tracking_app** — Flutter rider trip-tracking app with GPS-filtered distance/speed tracking and offline-first storage
+- **mock_trading_app** — Mock Flutter stock-trading app with live prices, watchlists, and a live P&L holdings view
+- **finsang_app / finsang_admin** — Full-stack TypeScript app with companion admin panel
+- **Ai-Notes-Summarise** — Turns text, PDFs, and articles into clean summaries and study flashcards
+
+### Connect with me
+- 💼 [LinkedIn](https://www.linkedin.com/in/priyanshu-yadav-935020242/)
+- 🌍 [Portfolio](https://priyanshuydv.netlify.app/)
