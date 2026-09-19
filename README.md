@@ -1,29 +1,37 @@
 ## Hi, I'm Priyanshu Yadav 👋
 
-### 📱 Flutter Developer | 🐍 Python Enthusiast | 🌐 Full-Stack Explorer
+### 🤖 AI Engineer | LLMs & Conversational AI | 🐍 Python | 📱 Full-Stack Developer
 
-Flutter developer based in Jaipur, India, focused on building clean, production-ready mobile apps. I also work across Python, PHP, and TypeScript for backend and tooling work.
+I build production-oriented AI/ML systems — from LLM-powered conversational agents to ML scoring pipelines — backed by a strong full-stack engineering foundation. Based in Jaipur, India.
 
 ### 🚀 What I Work On
 
-📱 Flutter/Dart mobile apps: GPS tracking, trading simulators, note-taking tools.
-🐍 Python scripting, automation and data-driven tools.
-🛠️ PHP backends and admin panels.
-🌐 TypeScript web apps.
+🤖 LLM-powered conversational AI: intent recognition, field extraction, guardrails, hallucination detection.
+📈 ML scoring pipelines: feature engineering, model training and evaluation with scikit-learn.
+🧪 Experimentation: A/B testing frameworks to measure model and product impact.
+🛠️ Productionization: FastAPI services, CI/CD pipelines, Docker, automated eval gates.
+📱 Flutter/Dart mobile apps and full-stack tooling in Python, PHP, and TypeScript.
 
 ### 🧰 Languages and Tools
 
-⚙️ Dart, Flutter, Python, PHP, TypeScript, JavaScript, Firebase, Git, MySQL
+⚙️ Python (scikit-learn, FastAPI, Pandas), LLM APIs (Groq), Dart, Flutter, TypeScript, PHP, JavaScript, Firebase, MySQL, Docker, GitHub Actions, Git
 
 ### 🌟 Featured Projects
 
-rider_tracking_app: Flutter rider trip-tracking app with GPS-filtered distance/speed tracking and offline-first storage. github.com/PriyanshuYadav10/rider_tracking_app
+Recovery-AI: Voice-first LLM conversational agent that recovers dropped customer journeys over live phone calls, with rules-first guardrails, a hallucination-guard log, a scikit-learn lead-scoring model, and a script A/B-testing framework.
+github.com/PriyanshuYadav10/Recovery-AI
 
-mock_trading_app: Mock Flutter stock-trading app with live prices, watchlists, and a live P&L holdings view. github.com/PriyanshuYadav10/mock_trading_app
+Ai-Notes-Summarise: Turns text, PDFs, and articles into clean summaries and study flashcards.
+github.com/PriyanshuYadav10/Ai-Notes-Summarise
 
-finsang_app and finsang_admin: Full-stack TypeScript app with companion admin panel. github.com/PriyanshuYadav10
+rider_tracking_app: Flutter rider trip-tracking app with GPS-filtered distance/speed tracking and offline-first storage.
+github.com/PriyanshuYadav10/rider_tracking_app
 
-Ai-Notes-Summarise: Turns text, PDFs, and articles into clean summaries and study flashcards. github.com/PriyanshuYadav10/Ai-Notes-Summarise
+mock_trading_app: Mock Flutter stock-trading app with live prices, watchlists, and a live P&L holdings view.
+github.com/PriyanshuYadav10/mock_trading_app
+
+finsang_app and finsang_admin: Full-stack TypeScript app with companion admin panel.
+github.com/PriyanshuYadav10
 
 ### 📊 GitHub Stats
 
@@ -34,4 +42,4 @@ Check out my live stats, streaks, and trophies on this profile page.
 LinkedIn: https://www.linkedin.com/in/priyanshu-yadav-935020242/
 Portfolio: https://priyanshuydv.netlify.app/
 
-⚡ Always exploring new tech and building things that solve real problems.
+⚡ Always exploring the latest in AI/ML and building things that solve real problems.
